@@ -38,7 +38,7 @@ body {
     cursor: pointer;
 }
 
-.navbar .links.container{
+.navbar .links-container{
     display: table;
     position: absolute;
     top: 0;
@@ -48,7 +48,7 @@ body {
     text-decoration: none;
 }
 
-.links.container .navbar-link{
+.links-container .navbar-link{
     display: table-cell;
     position: relative;
     height: 100%;
@@ -64,7 +64,7 @@ body {
     cursor: pointer;
 }
 
-.links.container .navbar-link:hover {
+.links-container .navbar-link:hover {
     color: rgb(233,50,117);
 }
 
