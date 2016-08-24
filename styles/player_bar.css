@@ -3,7 +3,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    height: 200px;
+    height: 190px;
     background-color: rgba(255,255,255,0.3);
     z-index: 100;
 }
@@ -36,6 +36,7 @@
     width: 25%;
     text-align: left;
     padding-right: 1rem;
+    padding-bottom: 62px;
 }
 
 .player-bar .main-controls .previous {
@@ -140,6 +141,7 @@
 .player-bar .volume {
     width: 25%;
     text-align: right;
+    padding-bottom: 70px;
 }
 
 .player-bar .volume .icon {
@@ -150,7 +152,7 @@
 
 .player-bar .volume .seek-bar {
     display: inline-block;
-    width: 4.75rem;
+    width: 5.75rem;
     vertical-align: middle;
 }
 
