@@ -17,7 +17,7 @@ var template =
    return $(template); 
 };
 
-$(window).load = function() {
+$(window).load(function() {
     //#1
     var $collectionContainer = $('.album-covers');
     //#2
@@ -29,4 +29,4 @@ $collectionContainer.empty();
         $collectionContainer.append($newThumbnail);
 }
 
-};
+});
