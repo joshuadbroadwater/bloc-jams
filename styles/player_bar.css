@@ -141,7 +141,7 @@
 .player-bar .volume {
     width: 25%;
     text-align: right;
-    padding-bottom: 70px;
+    padding-bottom: 18px;
 }
 
 .player-bar .volume .icon {
