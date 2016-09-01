@@ -21,10 +21,6 @@ $(window).load(function() {
        animatePoints();
    }
     
-
-   
-    
-    
 $(window).scroll(function(event) {
     var scrollDistance = $('.selling-points').offset().top - $(window).height() + 200;
     
